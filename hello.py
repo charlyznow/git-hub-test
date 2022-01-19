@@ -10,3 +10,9 @@ def resta(a,b):
     print(c)
     
 resta(10,8)
+
+def suma(x,y):
+    z= x+y
+    print(z)
+
+suma(2,1)
