@@ -16,3 +16,8 @@ def suma(x,y):
     print(z)
 
 suma(2,1)
+
+def  mult(h,n):
+    return h * n
+
+print(mult(1,4))
