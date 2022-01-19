@@ -5,8 +5,8 @@ hello('Charly')
 
 #Add New Funtion
 
-def suma(a,b):
-    c =  a + b
+def resta(a,b):
+    c =  a - b
     print(c)
     
-suma(10,8)
+resta(10,8)
